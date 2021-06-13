@@ -1,0 +1,72 @@
+[
+    {
+        "word": "cat",
+        "phonetics": [
+            {
+                "text": "/kæt/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/cat_us_1.mp3"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Raise (an anchor) from the surface of the water to the cathead.",
+                        "example": "I kept her off the wind and sailing free until I had the anchor catted"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.",
+                        "synonyms": [
+                            "feline"
+                        ],
+                        "example": "Domestic cats may breed much more frequently, as often as 3 times a year, as they are not typically limited by nutrition or climate."
+                    },
+                    {
+                        "definition": "(especially among jazz enthusiasts) a man."
+                    }
+                ]
+            }
+        ]
+    },
+  {
+        "word": "hello",
+        "phonetics": [
+            {
+                "text": "/həˈloʊ/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/hello_us_1_rr.mp3"
+            },
+            {
+                "text": "/hɛˈloʊ/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/hello_us_2_rr.mp3"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An utterance of “hello”; a greeting.",
+                        "synonyms": [
+                            "greeting",
+                            "welcome",
+                            "salutation",
+                            "saluting",
+                            "hailing",
+                            "address",
+                            "hello",
+                            "hallo"
+                        ],
+                        "example": "she was getting polite nods and hellos from people"
+                    }
+                ]
+            }
+           
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">English_Words</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="book">Book</string>
+    <string name="translation_ru_button">Перевести</string>
+    <string name="translation_en_button">Translate</string>
+    <string name="title_activity_grmmar">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
