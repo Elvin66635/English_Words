@@ -77,6 +77,7 @@ public class Tab1 extends Fragment {
                 }
             }
         });
+
         CustomItemClickListener clickListener = new CustomItemClickListener() {
             @Override
             public void onItemClick(int pos) {
